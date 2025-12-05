@@ -20,14 +20,14 @@ jobs:
           node-version: 22
 
       - name: Install MystMD
-        run: npm install -g mystmd
+        run: pip install mystmd
 
       - name: Build site
-        run: myst build --site
+        run: myst build --html
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _build/site/public
-          publish_branch: gh-pages
+          publish_dir: _build/html
+          publish_branch: gh-pages 
