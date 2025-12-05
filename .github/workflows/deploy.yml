@@ -21,7 +21,7 @@ jobs:
         run: npm install -g mystmd
 
       - name: Build site
-        run: myst export --html
+        run: myst export
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
