@@ -17,6 +17,7 @@ project:
 site:
   template: book
   baseurl: "https://ergobound.github.io/mystmd-quickstart/"
+  boom
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
