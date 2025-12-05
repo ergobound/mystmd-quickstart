@@ -15,7 +15,7 @@ project:
     - file: 02-notebook.ipynb
     
 site:
-  template: book-theme
+  template: article-theme
   options: 
     baseurl: "https://ergobound.github.io/mystmd-quickstart/"
   #   favicon: favicon.ico
