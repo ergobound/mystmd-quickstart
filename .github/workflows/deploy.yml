@@ -14,7 +14,7 @@ jobs:
         with:
           persist-credentials: false   # важно, иначе будут конфликты с токеном
 
-      - name: Setup Node
+      - name: Setup Node 
         uses: actions/setup-node@v3
         with:
           node-version: 22
