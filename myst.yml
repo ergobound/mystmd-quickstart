@@ -17,6 +17,6 @@ project:
 site:
   template: article-theme
   options: 
-    baseurl: "https://ergobound.github.io/mystmd-quickstart/"
+    baseurl: "/mystmd-quickstart"
   #   favicon: favicon.ico
   #   logo: site_logo.png
