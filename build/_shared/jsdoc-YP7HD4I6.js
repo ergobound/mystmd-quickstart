@@ -1,1 +1,1 @@
-import{a}from"/build/_shared/chunk-VZXSIKCR.js";import"/build/_shared/chunk-XK3K4AT7.js";import"/build/_shared/chunk-MRS6DOXX.js";import"/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/mystmd-quickstart/build/_shared/chunk-VZXSIKCR.js";import"/mystmd-quickstart/build/_shared/chunk-XK3K4AT7.js";import"/mystmd-quickstart/build/_shared/chunk-MRS6DOXX.js";import"/mystmd-quickstart/build/_shared/chunk-OZE3FFNP.js";export default a();
